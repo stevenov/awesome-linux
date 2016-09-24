@@ -209,6 +209,12 @@ It also offers a rolling release version called Tumbleweed for experienced users
 
 ### Books
 
+#### [Learn Linux in a month of Lunches](http://www.manning.com/ovadia) [[$31.99]]
+
+Shows you how to install and use Linux for all the things you do with your OS, like connecting to a network, installing software, and securing your system. Whether you're just curious about Linux or have to get up and running for your job, you'll appreciate how this book concentrates on the tasks you need to know how to do. In easy-to-follow lessons designed to take an hour or less, you'll learn how to use the command line, along with practical topics like installing software, customizing your desktop, printing, and even basic networking. You'll find a road map to the commands and processes you need to be instantly productive.
+
+Great for non-technical users.
+
 #### [The Linux Command Line](https://www.goodreads.com/book/show/11724436-the-linux-command-line) [4.34] [[FREE](http://linuxcommand.org/tlcl.php)]
 
 This is a great introduction to the Linux command line. - [@4iar](https://github.com/4iar/)
